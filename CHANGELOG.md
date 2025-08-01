@@ -1,5 +1,19 @@
 # Changelog
 
+## [11.18.0](https://github.com/Arize-ai/phoenix/compare/arize-phoenix-v11.17.0...arize-phoenix-v11.18.0) (2025-08-01)
+
+
+### Features
+
+* add exporter url to typescript guide ([#8889](https://github.com/Arize-ai/phoenix/issues/8889)) ([9fe7b87](https://github.com/Arize-ai/phoenix/commit/9fe7b87d6d8822019fe913f85b1377dadf985590))
+* Improved evals templating ([#8799](https://github.com/Arize-ai/phoenix/issues/8799)) ([b32717c](https://github.com/Arize-ai/phoenix/commit/b32717c94971d43124253e21ba10f366bc8228fa))
+* trace delete route by relay id ([#8863](https://github.com/Arize-ai/phoenix/issues/8863)) ([23014d3](https://github.com/Arize-ai/phoenix/commit/23014d3634fb1aa70f0edde770dced5276ebe763))
+
+
+### Documentation
+
+* Update README.md ([f60139b](https://github.com/Arize-ai/phoenix/commit/f60139b752aedb74f2d41d2c38768b92123d8e57))
+
 ## [11.17.0](https://github.com/Arize-ai/phoenix/compare/arize-phoenix-v11.16.1...arize-phoenix-v11.17.0) (2025-07-30)
 
 
